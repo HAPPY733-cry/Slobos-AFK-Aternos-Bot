@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hsgaming4567-wON7.aternos.me",
-    "port": 12785,
-    "version": "",
+    "ip": "hsgaming4567op.aternos.me",
+    "port": 60139,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
